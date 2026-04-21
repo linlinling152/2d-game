@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b4017d244223e41e899a33e7dacbb530
+guid: f5e33ea6214a24125b70633a7a1c5097
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fall_KG_1_0
+      name: Attack_KG_2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aced9f6b6430e42a791a55b624aac7c9
-      internalID: 526809477
+      spriteID: ade026f2b633a4aacae24ee92bcea8cd
+      internalID: 1178139975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fall_KG_1_1
+      name: Attack_KG_2_1
       rect:
         serializedVersion: 2
         x: 100
@@ -145,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94f656dda0f0a4a9291907c3b310a270
-      internalID: 1180094742
+      spriteID: c499fc51f251a490ebadee8c094eb72a
+      internalID: -1392129211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fall_KG_1_2
+      name: Attack_KG_2_2
       rect:
         serializedVersion: 2
         x: 200
@@ -166,8 +166,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e86be80967c1a45ba8302a8d1043cb27
-      internalID: -1435797693
+      spriteID: 59d732432773a4f0bbbd4c555e2eebaa
+      internalID: -1186876695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_KG_2_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9cb67db46d84df0b9468af5e99a1b0
+      internalID: -1596845644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_KG_2_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5c8fb21063c4d07af6f64dba8c9250
+      internalID: 1237931958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_KG_2_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c969ae4d1a51340dc97c6de96f7f7a64
+      internalID: -1127397881
       vertices: []
       indices: 
       edges: []
@@ -183,9 +246,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Fall_KG_1_0: 526809477
-      Fall_KG_1_1: 1180094742
-      Fall_KG_1_2: -1435797693
+      Attack_KG_2_0: 1178139975
+      Attack_KG_2_1: -1392129211
+      Attack_KG_2_2: -1186876695
+      Attack_KG_2_3: -1596845644
+      Attack_KG_2_4: 1237931958
+      Attack_KG_2_5: -1127397881
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
